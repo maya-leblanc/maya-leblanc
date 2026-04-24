@@ -2,7 +2,7 @@
 
 I'm Maya, an Engineering student at McMaster University.
 
-🔭 Currently working on collection of projects in grasp planning, hardware-software integration, advanced robotics simulations, and bioinformatics 
+🔭 Currently working on two major projects in computational immunogenomics + AI and ROS2 
 
-📚 Interested in all things engineering + AI + medicine
+📚 Interested in all things engineering + AI
 
