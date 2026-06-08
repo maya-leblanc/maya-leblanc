@@ -1,8 +1,7 @@
 # Hi there 👋 
 
-I'm Maya, an Engineering student at McMaster University.
+I'm Maya, an MSE engineering student at McMaster University.
 
-🔭 Currently working on two major projects in computational immunogenomics + AI and ROS2 
+🔭 Currently working a project in grasp planning @ Mac RMAL
 
-📚 Interested in all things engineering + AI
-
+📚 Interested in all things robotics
