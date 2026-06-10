@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Maya, an MSE engineering student at McMaster University.
+I'm Maya, an MS engineering student at McMaster University.
 
 🔭 Currently working a project in grasp planning @ Mac RMAL
 
